@@ -2,7 +2,6 @@
 Created by : Gaurav Kumar (imgk120601@gmail.com) 
 tu run : python manage.py runsslserver
 
-For convin_internship
 Problem: In this assignment you have to implement google calendar
 integration using django rest api. You need to use the OAuth2 mechanism to
 get users calendar access. Below are detail of API endpoint and
